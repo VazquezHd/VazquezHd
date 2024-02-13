@@ -25,7 +25,7 @@ procesos.
 <h2 align="center">Estadísticas GitHub 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?VazquezHd&show_icons=true&theme=radical" alt="Estadísticas GitHub">
 </p>
 
 <h2 align="center">Proyectos Destacados 🌟</h2>
