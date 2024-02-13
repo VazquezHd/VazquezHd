@@ -19,7 +19,7 @@ procesos.
 <h2 align="center">Lenguajes y Herramientas 🛠️</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Top Lenguajes">
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical](https://images.app.goo.gl/zGx1k7LzMKrQg9A18)" alt="Top Lenguajes">
 </p>
 
 <h2 align="center">Estadísticas GitHub 📊</h2>
