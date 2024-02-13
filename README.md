@@ -1,13 +1,19 @@
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
+<h1 align="center">¡Hola! 👋 Soy Iván Vázquez</h1>
 
 <p align="center">Desarrollador de Software apasionado por <strong>HTML, CSS, Bootstrap, SASS, JavaScript, React y LitElement</strong>.</p>
 
 <h2 align="center">Acerca de Mí 🚀</h2>
 
 <p align="center">
-  Actualmente trabajando en <strong>[Proyecto Actual]</strong><br>
-  Aprendiendo y mejorando constantemente<br>
-  Pregúntame sobre <strong>[Tus Áreas de Conocimiento]</strong>
+ Front-End Dev Designer, apasionado por 
+el diseño y desarrollo de sitios web, mi enfoque principal es la calidad en la experiencia de usuario,mediante un diseño atractivo, responsivo y funcional, busco un puesto desafiante donde pueda seguir desarrollando mi potencial.
+
+Tengo experiencia en lenguajes de programación (HTML, CSS, Javascript), 
+experiencia en librerías y frameworks 
+(Bootstrap, Material UI, ReactJS y LitElement) manejo de controlador de versiones (GIT, GitHub y Bitbucket), consumo de API, paquetería de Adobe y Figma para trabajar y diseñar interfaz de usuario.
+Mis softskills: trabajo en equipo,liderazgo, proactivo,multidisciplinario, con expe-
+riencia en diseño gráfico y gestión de 
+procesos.
 </p>
 
 <h2 align="center">Lenguajes y Herramientas 🛠️</h2>
