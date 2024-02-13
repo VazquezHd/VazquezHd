@@ -31,7 +31,7 @@ procesos.
 <h2 align="center">Proyectos Destacados 🌟</h2>
 
 <p align="center">
-  <a href="https://github.com/tu-usuario/proyecto-1">
+  <a href="[https://github.com/tu-usuario/proyecto-1](https://github.com/VazquezHd/myweb)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=proyecto-1&theme=radical" alt="Proyecto 1">
   </a>
   <a href="https://github.com/tu-usuario/proyecto-2">
@@ -42,10 +42,9 @@ procesos.
 <h2 align="center">Contacto 📬</h2>
 
 <p align="center">
-  <a href="mailto:tu-email@example.com">✉️ Correo Electrónico</a><br>
-  <a href="https://tu-sitio-web.com">🌐 Sitio Web/Portafolio</a><br>
-  <a href="https://www.linkedin.com/in/tu-usuario/">💼 LinkedIn</a><br>
-  <a href="https://twitter.com/tu_usuario">🐦 Twitter</a>
+  <a href="vazquez.dg22@gmail.com">✉️ Correo Electrónico</a><br>
+  <a href="">🌐 Sitio Web/Portafolio</a><br>
+  <a href="[https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/ivan-v%C3%A1zquez-1347b9241/)">💼 LinkedIn</a><br>
 </p>
 
 <p align="center">¡Gracias por visitar mi perfil! 😊</p>
